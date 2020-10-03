@@ -1,6 +1,6 @@
 {
-  "description": "<p>Testing stuff again</p><p><img src=\"/content/images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg\"></p><p></p><p></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>Testing stuff again</p><p><img src=\"/content/images/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg\"></p>",
+  "cta": "<p><strong>To get started, import this site into Forestry or checkout the repository </strong><a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\"><strong>here</strong></a><strong>.</strong></p>",
   "contact": {
     "email": "info@forestry.io",
     "twitter_handle": "forestryio",
