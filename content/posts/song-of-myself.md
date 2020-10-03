@@ -7,6 +7,10 @@ hero_image: "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 ---
 Yay for changes
 
+<div style="background: red; height: 20px; width: 20px;">
+
+</div>
+
 ![](/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg)
 
 Lack one lacks both, and the unseen is proved by the seen,  
